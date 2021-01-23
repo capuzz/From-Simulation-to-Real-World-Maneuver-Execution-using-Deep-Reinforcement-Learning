@@ -5,4 +5,6 @@ LINK: https://arxiv.org/abs/2005.07023
 
 CONFERENCE: IEEE Intelligent Vehicle 2020 (IV2020)
 
+DOI: 10.1109/IV47402.2020.9304593 (https://ieeexplore.ieee.org/document/9304593)
+
 DEMONSTRATION LINK: https://drive.google.com/file/d/1X9Sy2Mru_SfWyid3-Va8Ftm1pXfk5w3o/view
